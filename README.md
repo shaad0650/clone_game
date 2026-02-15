@@ -4,8 +4,6 @@
 
 A strategic top-down survival shooter where every move you make is recorded and replayed by enemy clones. Survive against your own timeline, use strategic Time Echoes to create allies, and battle massive Boss Clones.
 
-![Game Screenshot](screenshot.png) *(Add a screenshot here if you have one)*
-
 ## 🎮 Features
 
 *   **Time Loop Mechanics**: Enemies are clones of *you* from the past. They move, shoot, and dash exactly as you did.
